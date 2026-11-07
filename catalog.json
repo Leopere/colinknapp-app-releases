@@ -16,6 +16,21 @@
       "notarized": true,
       "stapled": true,
       "gatekeeper_accepted": true
+    },
+    "noshot": {
+      "name": "NoShot",
+      "version": "0.2.10",
+      "download_url": "https://github.com/Leopere/colinknapp-app-releases/releases/download/noshot-8a160c32a7e0-778a68f6/noshot-8a160c32a7e0-macOS.zip",
+      "release_url": "https://github.com/Leopere/colinknapp-app-releases/releases/tag/noshot-8a160c32a7e0-778a68f6",
+      "sha256": "735023668e8bef6921e141cf58c5ef485a11298809ef4096770de7c72b7ca984",
+      "source_revision": "8a160c32a7e0f88da786b22e3bc92ae9c240d88d",
+      "architectures": [
+        "arm64"
+      ],
+      "minimum_macos": "12.0",
+      "notarized": true,
+      "stapled": true,
+      "gatekeeper_accepted": true
     }
   }
 }
