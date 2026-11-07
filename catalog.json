@@ -1,0 +1,21 @@
+{
+  "schema": "verified-macos-downloads/v1",
+  "apps": {
+    "speaker-guard": {
+      "name": "Speaker Guard",
+      "version": "1.1",
+      "download_url": "https://github.com/Leopere/colinknapp-app-releases/releases/download/speaker-guard-711725d6de30-778a68f6/speaker-guard-711725d6de30-macOS.zip",
+      "release_url": "https://github.com/Leopere/colinknapp-app-releases/releases/tag/speaker-guard-711725d6de30-778a68f6",
+      "sha256": "52cdf8026c3e536b21e10a14c77edecb6fb7b4e713c7a7ca20af1fff3e116e1a",
+      "source_revision": "711725d6de309879cf7ad6792493aea670a47d09",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "minimum_macos": "14.2",
+      "notarized": true,
+      "stapled": true,
+      "gatekeeper_accepted": true
+    }
+  }
+}
